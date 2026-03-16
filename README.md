@@ -1,7 +1,7 @@
 # @hebernunes · 0x86DD_
 
-[![Security Engineer](https://img.shields.io/badge/Security_Engineer-15%2B_yrs-22d3ee?style=flat-square&logo=shield&logoColor=white)](https://veraiz.com)
-[![Founder](https://img.shields.io/badge/Founder-Veraiz-22d3ee?style=flat-square)](https://veraiz.com)
+[![Security Engineer](https://img.shields.io/badge/Security_Engineer-22d3ee?style=flat-square&logo=shield&logoColor=white)](https://veraiz.com)
+[![Builder](https://img.shields.io/badge/Builder-Veraiz-22d3ee?style=flat-square)](https://veraiz.com)
 [![Location](https://img.shields.io/badge/Vancouver-BC_Canada-0f6e56?style=flat-square&logo=google-maps&logoColor=white)]()
 
 ---
