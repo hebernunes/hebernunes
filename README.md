@@ -6,7 +6,7 @@
 
 ---
 
-Senior Security Engineer and builder. 15+ years securing enterprise systems across cloud, detection engineering, and compliance.  
+Senior Security Engineer and builder. Deep experience securing enterprise systems across cloud, detection engineering, and compliance.  
 Currently building **[Veraiz](https://veraiz.com)** — an AI-powered security & compliance platform for SMBs.
 
 ---
