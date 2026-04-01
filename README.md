@@ -36,7 +36,7 @@ tools:        SIEM · EDR · Zero Trust · IaC Security
 
 ```
 Stack: React 18 · TypeScript · Supabase · PostgreSQL · Edge Functions (Deno) · Tailwind
-AI:    Claude Haiku · DeepSeek · Multi-model routing · Serverless inference
+AI:    Multi-model routing · Serverless inference
 Infra: Supabase Vault · RLS · Resend · jsPDF · Recharts
 ```
 > ⚠️ Repo is private — platform is live at [veraiz.com](https://veraiz.com)
