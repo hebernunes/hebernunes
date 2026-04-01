@@ -32,7 +32,7 @@ tools:        SIEM · EDR · Zero Trust · IaC Security
 - **Compliance gap analyzer** — real-time analysis across SOC2, ISO27001, HIPAA, NIST, PCI DSS
 - **NIST-based assessment engine** — automated risk scoring with industry-specific benchmarks
 - **ROI calculator** — AI-driven security investment analysis and payback modeling
-- **Vera AI** — conversational security consultant with escalation intelligence
+- **Vera AI** — AI Agent Security & Comliance with escalation intelligence
 
 ```
 Stack: React 18 · TypeScript · Supabase · PostgreSQL · Edge Functions (Deno) · Tailwind
@@ -43,7 +43,7 @@ Infra: Supabase Vault · RLS · Resend · jsPDF · Recharts
 
 ---
 
-### [vera-agent](https://github.com/hebernunes/vera-agent) — Self-Hosted AI Agent Infrastructure
+### (https://github.com/hebernunes/vera-agent) — Self-Hosted AI Agent Infrastructure
 > Security-first AI agent deployment built on OpenClaw.
 
 - Multi-model fallback chain across Anthropic, OpenAI, OpenRouter, GitHub Copilot
